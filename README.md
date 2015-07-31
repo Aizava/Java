@@ -1,4 +1,10 @@
 # Java sample code
-##This code adds opportunity to create news.
-Unit tests also included
+
+Simple demo classes. Shows information about Aircamp development.
+
+Repository includes:
+* Entity class
+* Creation class
+* GetList class
+* CreationTest Class
 
