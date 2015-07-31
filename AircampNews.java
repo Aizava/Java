@@ -1,4 +1,3 @@
-<pre><code>
 package com.monotrack.entities;
 
 
@@ -112,4 +111,3 @@ public class AircampNews {
                 .toString();
     }
 }
-</code></pre>
